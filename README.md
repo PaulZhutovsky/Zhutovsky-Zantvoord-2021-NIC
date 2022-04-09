@@ -1,1 +1,1 @@
-# Zhutovsky-Zantvoord-2021-NIC
+Code for Zhutovsky*, Zantvoord*, et al. (2021). Individual prediction of trauma-focused psychotherapy response in youth with posttraumatic stress disorder using resting-state functional connectivity. _NeuroImage: Clinical, 32_, 102898. https://doi.org/10.1016/j.nicl.2021.102898
